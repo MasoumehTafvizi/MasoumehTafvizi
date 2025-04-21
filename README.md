@@ -1,6 +1,11 @@
 ## Hi there 👋
 
 
+- 🎓 Bachelor’s in Computer Engineering @ Politecnico di Torino
+- 🌱 I’m currently learning more about backend systems and advanced data analysis
+- 🤝 I’m looking to collaborate on open-source projects and real-world applications where I can apply both frontend, backend, and data skills
+
+
 <!--
 **MasoumehTafvizi/MasoumehTafvizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
