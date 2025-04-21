@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 
-- 🎓 Bachelor’s in Computer Engineering [@ Politecnico di Torino](https://www.polito.it/)
+- 🎓 Bachelor’s in Computer Engineering [@ Politecnico di Torino](https://www.polito.it/ "Located in Turin, Italy 🇮🇹")
 - 🌱 I’m currently learning more about backend systems and advanced data analysis
-- 🤝 I’m looking to collaborate on projects and real-world applications where I can apply both frontend, backend, and data skills
+- 🤝 I’m looking to collaborate on projects and real-world applications where I can apply both frontend and backend, and also data skills
 
 
 <!--
