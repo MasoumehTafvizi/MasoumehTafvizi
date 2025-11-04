@@ -1,20 +1,71 @@
-# Masoumeh Tafvizi
 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:masoumeh.tafviziii@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/masoumeh-tafvizi/)
-[![Github](https://img.shields.io/github/followers/MasoumehTafvizi?label=Follow&style=social)](https://github.com/MasoumehTafvizi)
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi👋, I'm Masoumeh Tafvizi</h1></summary>
+  </ul>
+</div>
+
 - 🎓 Bachelor’s in Computer Engineering [@ Politecnico di Torino](https://www.polito.it/ "Located in Turin, Italy 🇮🇹")
 - 🌱 I’m currently learning more about backend systems and advanced data analysis
-- 🤝 I’m looking to collaborate on projects and real-world applications where I can apply my software development and data analysis skills
+
 
 ### 🖥 Skills
 
 - Programming Languages: C, PYTHON, Java, JavaScript, HTML, CSS, Bash
-- Database: MySQL
+- Application Developement with Streamlit
 - Algorithm and Data Structures
 - Front-end development (using Vue.js)
-### ⚙️ Tech Stack
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Java-05122A?style=flat-square&logo=Java&color=353535) ![Bootstrap](https://img.shields.io/badge/-C-05122A?style=flat-square&logo=C&color=353535) ![Bootstrap](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=JavaScript&color=353535) ![Bootstrap](https://img.shields.io/badge/-Vue.Js-05122A?style=flat-square&logo=Vue.Js&color=353535) ![Bootstrap](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML&color=353535) ![Bootstrap](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS&color=353535) ![Bootstrap](https://img.shields.io/badge/-SuperSet-05122A?style=flat-square&logo=SuperSet&color=353535) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pycharm-05122A?style=flat-square&logo=Pycharm&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Jira-05122A?style=flat-square&logo=Jira&color=353535)
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,c,bash,javascript,vue,react,html,css,figma,git,github,docker,linux,mysql,postman,vscode,eclipse,pycharm,anaconda&perline=14" />
+  </a>
+</p>
+
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me</h2></summary>
+  </ul>
+</div>
+
+
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/masoumeh-tafvizi/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="100" width="50" /></a>
+<!--<a href="https://twitter.com/masoumehTafvizi" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> -->
+<!--<a href="https://www.instagram.com/masoumehTafvizi/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>-->
+<!--<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>-->
+<!--<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>-->
+<a href="mailto:masoumeh.tafviziii@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height:64px; object-fit:fill;" /></a>
+<a href="(https://github.com/MasoumehTafvizi)" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="linkedin" height="100" width="50" /></a>  
+</p>
+
+
+
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
+
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
