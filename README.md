@@ -16,7 +16,7 @@
 ### 🖥 Skills
 
 - Programming Languages: C, PYTHON, Java, JavaScript, HTML, CSS, Bash
-- Application Developement with Streamlit
+- Application Development with Streamlit
 - Algorithm and Data Structures
 - Front-end development (using Vue.js)
 
