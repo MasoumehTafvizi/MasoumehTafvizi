@@ -46,7 +46,10 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/masoumeh-tafvizi/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="100" width="50" /></a>
 <a href="mailto:masoumeh.tafviziii@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="100" width="50" /></a>
-<a href="https://github.com/MasoumehTafvizi" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="linkedin" height="100" width="50" /></a>  
+<a href="https://github.com/MasoumehTafvizi" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="linkedin" height="100" width="50" /></a>
+<!--i<a href="https://www.facebook.com/MasoumehTafvizi/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/6b76ad58-e1ac-46f2-98f5-dda833069621" alt="facebook" height="100" width="50" /></a> 
+<a href="https://www.youtube.com/@{ value }" target="blank"><img align="center" src="https://github.com/user-attachments/assets/bf2a5ab8-fff6-4559-ba2b-b9f62ab4a00e" alt="youtube" height="100" width="50" /></a>
+<a href="{ value }" target="blank"><img align="center" src="https://github.com/user-attachments/assets/38888477-8edd-4bad-9832-f032d6ed129b" alt="hashnode" height="50" width="50" /></a>-->
 </p>
 
 
