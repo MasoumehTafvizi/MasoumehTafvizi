@@ -8,8 +8,9 @@
   </ul>
 </div>
 
-- 🎓 Bachelor’s in Computer Engineering [@ Politecnico di Torino](https://www.polito.it/ "Located in Turin, Italy 🇮🇹")
-- 🌱 I’m currently learning more about backend systems and advanced data analysis
+- 🎓 Computer Engineering graduate from [@ Politecnico di Torino](https://www.polito.it/ "Located in Turin, Italy 🇮🇹")
+- 🤖 Aspiring Machine Learning Engineer passionate about AI, data-driven systems, and scalable backend architectures  
+- 🚀 Currently mastering Python for Data Science & Machine Learning and building production-ready applications with Django
 
 
 ### 🖥 Skills
