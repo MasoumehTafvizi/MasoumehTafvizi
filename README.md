@@ -29,8 +29,14 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,c,bash,javascript,vue,react,html,css,figma,git,github,docker,linux,mysql,postman,vscode,eclipse,pycharm,anaconda&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,java,c,bash,javascript,vue,react,html,css,figma,git,github,docker,linux,mysql,postman,vscode,eclipse,pycharm,anaconda&perline=10" />
   </a>
+</p>
+<p align="center">
+  <table align="center"><tr>
+    <td><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="numpy" height="50" width="50" /></td>
+    <td><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="pandas" height="50" width="50" /></td>
+  </tr></table>
 </p>
 
 
