@@ -8,17 +8,18 @@
   </ul>
 </div>
 
-- 🎓 Computer Engineering graduate from [@ Politecnico di Torino](https://www.polito.it/ "Located in Turin, Italy 🇮🇹")
-- 🤖 Aspiring Machine Learning Engineer passionate about AI, data-driven systems, and scalable backend architectures  
-- 🚀 Currently mastering Python for Data Science & Machine Learning and building production-ready applications with Django
+- 🎓 Computer Engineering graduate from [@ Politecnico di Torino](https://www.polito.it/ "Located in Turin, Italy 🇮🇹") with professional experience in software development.
+- 💻 Passionate about building applications, data-driven solutions, and exploring Data Engineering, Machine Learning & AI.
+- 🚀 Currently expanding my expertise in Python, Data Engineering, and AI while developing practical, end-to-end projects.
 
 
 ### 🖥 Skills
 
-- Programming Languages: C, PYTHON, Java, JavaScript, HTML, CSS, Bash
-- Application Development with Streamlit
-- Algorithm and Data Structures
-- Front-end development (using Vue.js)
+- Programming Languages: Python, SQL, JavaScript, Java, C, Bash
+- Data Engineering: Databricks, PySpark, Spark SQL, Delta Lake
+- Software Development: Vue.js, REST APIs, Streamlit, HTML, CSS
+- AI & Machine Learning: Python, LLM Integration, Ollama
+- Data Visualization & Tools: Apache Superset, Streamlit, Git, GitHub, Postman, Jira
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
